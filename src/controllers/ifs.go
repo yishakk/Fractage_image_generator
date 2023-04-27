@@ -6,8 +6,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/B3zaleel/fractage/src/fractals"
-	"github.com/B3zaleel/fractage/src/helpers"
+	"github.com/yishakk/fractage/src/fractals"
+	"github.com/yishakk/fractage/src/helpers"
 	"github.com/kataras/iris/v12"
 )
 

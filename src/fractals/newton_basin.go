@@ -8,7 +8,7 @@ import (
 	"math"
 	"math/cmplx"
 
-	"github.com/B3zaleel/fractage/src/helpers"
+	"github.com/yishakk/fractage/src/helpers"
 	math_helpers "github.com/B3zaleel/fractage/src/helpers/math"
 )
 

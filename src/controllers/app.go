@@ -3,7 +3,7 @@ package controllers
 import (
 	"strconv"
 
-	"github.com/B3zaleel/fractage/src/helpers"
+	"github.com/yishakk/fractage/src/helpers"
 	"github.com/kataras/iris/v12"
 )
 

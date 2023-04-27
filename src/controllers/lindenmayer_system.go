@@ -5,9 +5,9 @@ import (
 	"image/color"
 	"strconv"
 
-	"github.com/B3zaleel/fractage/src/fractals"
-	"github.com/B3zaleel/fractage/src/helpers"
-	"github.com/kataras/iris/v12"
+	"github.com/yishakk/fractage/src/fractals"
+	"github.com/yishakk/fractage/src/helpers"
+	"github.com/yishakk/iris/v12"
 )
 
 const (

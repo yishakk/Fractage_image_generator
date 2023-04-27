@@ -6,7 +6,7 @@ import (
 	"image/png"
 	"io"
 
-	"github.com/B3zaleel/fractage/src/helpers"
+	"github.com/yishakk/fractage/src/helpers"
 	"github.com/llgcode/draw2d/draw2dimg"
 )
 

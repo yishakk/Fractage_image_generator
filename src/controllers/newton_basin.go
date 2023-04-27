@@ -5,9 +5,9 @@ import (
 	"image/color"
 	"strconv"
 
-	"github.com/B3zaleel/fractage/src/fractals"
-	"github.com/B3zaleel/fractage/src/helpers"
-	math_helper "github.com/B3zaleel/fractage/src/helpers/math"
+	"github.com/yishakk/fractage/src/fractals"
+	"github.com/yishakk/fractage/src/helpers"
+	math_helper "github.com/yishakk/fractage/src/helpers/math"
 	"github.com/kataras/iris/v12"
 )
 

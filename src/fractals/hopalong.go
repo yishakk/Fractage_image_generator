@@ -7,7 +7,7 @@ import (
 	"io"
 	"math"
 
-	"github.com/B3zaleel/fractage/src/helpers"
+	"github.com/yishakk/fractage/src/helpers"
 )
 
 var (
