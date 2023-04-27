@@ -1,0 +1,82 @@
+- name: rainbow
+  transitions:
+    - color: "rgb(255, 0, 255)"
+      position: 0.0
+    - color: "rgb(0, 0, 0)"
+      position: 0.142
+    - color: "rgb(255, 0, 0)"
+      position: 0.285
+    - color: "rgb(255, 255, 0)"
+      position: 0.428
+    - color: "rgb(0, 255, 0)"
+      position: 0.571
+    - color: "rgb(0, 255, 255)"
+      position: 0.714
+    - color: "rgb(0, 0, 255)"
+      position: 0.857
+    - color: "rgb(255, 0, 255)"
+      position: 1.0
+- name: orange_blue
+  transitions:
+    - color: "rgb(0, 0, 0)"
+      position: 0.0
+    - color: "rgb(255, 80, 0)"
+      position: 0.2
+    - color: "rgb(255, 255, 0)"
+      position: 0.4
+    - color: "rgb(255, 255, 255)"
+      position: 0.6
+    - color: "rgb(0, 0, 255)"
+      position: 0.8
+    - color: "rgb(0, 0, 0)"
+      position: 1.0
+- name: fire
+  transitions:
+    - color: "rgb(0, 0, 0)"
+      position: 0.0
+    - color: "rgb(255, 0, 0)"
+      position: 0.25
+    - color: "rgb(255, 255, 0)"
+      position: 0.5
+    - color: "rgb(255, 255, 255)"
+      position: 0.75
+    - color: "rgb(0, 0, 0)"
+      position: 1.0
+- name: monochrome
+  transitions:
+    - color: "rgb(0, 0, 0)"
+      position: 0.0
+    - color: "rgb(255, 255, 255)"
+      position: 0.5
+    - color: "rgb(0, 0, 0)"
+      position: 1.0
+- name: multi_colored
+  transitions:
+    - color: "rgb(0, 0, 0)"
+      position: 0.0
+    - color: "rgb(0, 0, 255)"
+      position: 0.068333
+    - color: "rgb(0, 255, 255)"
+      position: 0.13667
+    - color: "rgb(255, 255, 255)"
+      position: 0.16667
+    - color: "rgb(255, 0, 0)"
+      position: 0.26667
+    - color: "rgb(0, 0, 0)"
+      position: 0.333333
+    - color: "rgb(255, 255, 255)"
+      position: 0.5
+    - color: "rgb(0, 255, 0)"
+      position: 0.54167
+    - color: "rgb(0, 0, 0)"
+      position: 0.666667
+    - color: "rgb(255, 80, 0)"
+      position: 0.74167
+    - color: "rgb(255, 255, 0)"
+      position: 0.80334
+    - color: "rgb(255, 255, 255)"
+      position: 0.83334
+    - color: "rgb(255, 0, 255)"
+      position: 0.91667
+    - color: "rgb(0, 0, 0)"
+      position: 1.0
