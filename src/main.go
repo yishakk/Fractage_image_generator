@@ -5,8 +5,8 @@ import (
 	"os"
 	"strings"
 
-	"github.com/yishakk/fractage/src/config"
 	"github.com/kataras/iris/v12"
+	"github.com/yishakk/fractage/src/config"
 )
 
 func main() {
